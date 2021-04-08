@@ -4,7 +4,6 @@ namespace Constructors
 {
     class Program
     {
-        string name;
         static void Main(string[] args)
         {
             Program program = new Program("Ali");
