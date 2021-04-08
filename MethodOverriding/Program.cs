@@ -2,7 +2,7 @@
 
 namespace MethodOverriding
 {
-    
+
     class Program
     {
         static void Main(string[] args)
@@ -19,9 +19,9 @@ namespace MethodOverriding
     {
         new public void showMessage()
         {
-                 /*!
-                    * The base keyword can be used to call the method from base class
-                    */
+            /*!
+               * The base keyword can be used to call the method from base class
+               */
             Console.WriteLine("==================================");
             Console.WriteLine("Overridden method in child class");
             Console.WriteLine("==================================");
@@ -31,7 +31,7 @@ namespace MethodOverriding
             Console.WriteLine("-----------------------------------------------------------------------------");
 
         }
-        
+
     }
     //! Base class named Exp
 
