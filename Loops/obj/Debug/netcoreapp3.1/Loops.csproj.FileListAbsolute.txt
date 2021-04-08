@@ -10,3 +10,4 @@ C:\Users\rafay\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.Cor
 C:\Users\rafay\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
 C:\Users\rafay\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
 C:\Users\rafay\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
+C:\Users\rafay\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache

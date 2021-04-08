@@ -8,19 +8,32 @@ namespace Loops
 
         static void Main()
         {
-            //To take User Input when we want a string
-            Console.WriteLine("Enter Username");
-            string username = Console.ReadLine();
+            Console.WriteLine(Seperator);
+            int counter = 0;
+            for (counter = 0; counter <= 10; counter++)
+            {
+                Console.WriteLine("\t" + counter);
+            }
             Console.WriteLine(Seperator);
 
-            /*To take User Input when
-             * we want a interger we have to convert
-             * the value to integer first
-             */
-            Console.WriteLine("Enter your age");
-            int age = Convert.ToInt32(Console.ReadLine());
+            int loop = 0;
+            do
+            {
+                Console.WriteLine(loop++);
+            } while (loop <= 30);
+
             Console.WriteLine(Seperator);
-            Console.WriteLine($"The username is {username} and age is {age}");
+
+            int row = 1;
+            int col = 1;
+            for(col = 1; col <= 5; ++col)
+            {
+                for(row = 1; row <= col; ++row)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
