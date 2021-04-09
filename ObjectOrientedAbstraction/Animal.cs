@@ -24,11 +24,11 @@ namespace ObjectOrientedAbstraction
     }
 
     public class Dog : Animal
+    {
         /*! At this point, we will have an error because we have 
          * not yet implemented the method of animalSound. As soon
          * as we do that, the error disappears
          */
-    {
         public override void animalSound()
         {
             Console.WriteLine("Animal says bow bow");
