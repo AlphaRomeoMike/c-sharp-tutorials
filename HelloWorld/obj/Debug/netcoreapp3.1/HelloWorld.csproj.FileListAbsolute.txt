@@ -11,3 +11,16 @@ C:\Users\rafay\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloW
 C:\Users\rafay\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\Users\rafay\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\Users\rafay\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\ARM\Source\Repos\AlphaRomeoMike\c-sharp-tutorials\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

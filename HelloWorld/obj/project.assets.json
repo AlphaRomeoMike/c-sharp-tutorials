@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rafay\\.nuget\\packages\\": {}
+    "C:\\Users\\ARM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafay\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\ARM\\Source\\Repos\\AlphaRomeoMike\\c-sharp-tutorials\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\rafay\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\rafay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafay\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
+      "projectPath": "C:\\Users\\ARM\\Source\\Repos\\AlphaRomeoMike\\c-sharp-tutorials\\HelloWorld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\ARM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ARM\\Source\\Repos\\AlphaRomeoMike\\c-sharp-tutorials\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ARM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

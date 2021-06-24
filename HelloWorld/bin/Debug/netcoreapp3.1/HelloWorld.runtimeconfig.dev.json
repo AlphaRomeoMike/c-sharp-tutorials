@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\rafay\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\rafay\\.nuget\\packages"
+      "C:\\Users\\ARM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ARM\\.nuget\\packages"
     ]
   }
 }
